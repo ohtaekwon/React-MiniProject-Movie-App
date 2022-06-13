@@ -2,5 +2,5 @@
 
 [DEMO](https://illustrious-crisp-3c0589.netlify.app/)
 
-![main](https://img.shields.io/github/followers/ohtaekwon?label=follow&style=social)
+![main](https://raw.githubusercontent.com/ohtaekwon/ohtaekwon/master/img/React-movie.png)
 
